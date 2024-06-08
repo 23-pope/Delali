@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.main-div{
+    padding: 20px;
+    display: inline-block;
+    background-color: aquamarine;
+    font-size: medium;
+    border-top-right-radius: 3em;
+    border-bottom-left-radius: 3em;
+}
+
+form{
+    display: block;
+    justify-content: center;
+}
+
+.hw{
+    height: 20px;
+    width: 200px;
+    border-radius: 0.3em;
+    border: 1px black solid;
+}
